@@ -1,0 +1,15 @@
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/bin/Debug/net9.0/InfosPersos
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/bin/Debug/net9.0/InfosPersos.deps.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/bin/Debug/net9.0/InfosPersos.runtimeconfig.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/bin/Debug/net9.0/InfosPersos.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/bin/Debug/net9.0/InfosPersos.pdb
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/obj/Debug/net9.0/InfosPersos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/obj/Debug/net9.0/InfosPersos.AssemblyInfoInputs.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/obj/Debug/net9.0/InfosPersos.AssemblyInfo.cs
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/obj/Debug/net9.0/InfosPersos.csproj.CoreCompileInputs.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/obj/Debug/net9.0/InfosPersos.sourcelink.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/obj/Debug/net9.0/InfosPersos.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/obj/Debug/net9.0/refint/InfosPersos.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/obj/Debug/net9.0/InfosPersos.pdb
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/obj/Debug/net9.0/InfosPersos.genruntimeconfig.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/InfosPersos/obj/Debug/net9.0/ref/InfosPersos.dll

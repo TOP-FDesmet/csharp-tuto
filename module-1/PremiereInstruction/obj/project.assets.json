@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/top-fdesmet/Documents/02_formations/csharp/module-1/PremiereInstruction/PremiereInstruction.csproj",
+      "projectUniqueName": "/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-1/PremiereInstruction/PremiereInstruction.csproj",
       "projectName": "PremiereInstruction",
-      "projectPath": "/Users/top-fdesmet/Documents/02_formations/csharp/module-1/PremiereInstruction/PremiereInstruction.csproj",
+      "projectPath": "/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-1/PremiereInstruction/PremiereInstruction.csproj",
       "packagesPath": "/Users/top-fdesmet/.nuget/packages/",
-      "outputPath": "/Users/top-fdesmet/Documents/02_formations/csharp/module-1/PremiereInstruction/obj/",
+      "outputPath": "/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-1/PremiereInstruction/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/top-fdesmet/.nuget/NuGet/NuGet.Config"

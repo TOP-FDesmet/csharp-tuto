@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/top-fdesmet/Documents/02_formations/csharp/new-project/new-project.csproj": {}
+    "/Users/top-fdesmet/Documents/02_formations/csharp-tuto/new-project/new-project.csproj": {}
   },
   "projects": {
-    "/Users/top-fdesmet/Documents/02_formations/csharp/new-project/new-project.csproj": {
+    "/Users/top-fdesmet/Documents/02_formations/csharp-tuto/new-project/new-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/top-fdesmet/Documents/02_formations/csharp/new-project/new-project.csproj",
+        "projectUniqueName": "/Users/top-fdesmet/Documents/02_formations/csharp-tuto/new-project/new-project.csproj",
         "projectName": "new-project",
-        "projectPath": "/Users/top-fdesmet/Documents/02_formations/csharp/new-project/new-project.csproj",
+        "projectPath": "/Users/top-fdesmet/Documents/02_formations/csharp-tuto/new-project/new-project.csproj",
         "packagesPath": "/Users/top-fdesmet/.nuget/packages/",
-        "outputPath": "/Users/top-fdesmet/Documents/02_formations/csharp/new-project/obj/",
+        "outputPath": "/Users/top-fdesmet/Documents/02_formations/csharp-tuto/new-project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/top-fdesmet/.nuget/NuGet/NuGet.Config"
