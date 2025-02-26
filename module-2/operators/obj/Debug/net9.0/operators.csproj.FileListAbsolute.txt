@@ -1,0 +1,15 @@
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/bin/Debug/net9.0/operators
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/bin/Debug/net9.0/operators.deps.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/bin/Debug/net9.0/operators.runtimeconfig.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/bin/Debug/net9.0/operators.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/bin/Debug/net9.0/operators.pdb
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/obj/Debug/net9.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/obj/Debug/net9.0/operators.AssemblyInfoInputs.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/obj/Debug/net9.0/operators.AssemblyInfo.cs
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/obj/Debug/net9.0/operators.csproj.CoreCompileInputs.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/obj/Debug/net9.0/operators.sourcelink.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/obj/Debug/net9.0/operators.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/obj/Debug/net9.0/refint/operators.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/obj/Debug/net9.0/operators.pdb
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/obj/Debug/net9.0/operators.genruntimeconfig.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/operators/obj/Debug/net9.0/ref/operators.dll
