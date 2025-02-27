@@ -1,0 +1,15 @@
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/bin/Debug/net9.0/loop
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/bin/Debug/net9.0/loop.deps.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/bin/Debug/net9.0/loop.runtimeconfig.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/bin/Debug/net9.0/loop.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/bin/Debug/net9.0/loop.pdb
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/obj/Debug/net9.0/loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/obj/Debug/net9.0/loop.AssemblyInfoInputs.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/obj/Debug/net9.0/loop.AssemblyInfo.cs
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/obj/Debug/net9.0/loop.csproj.CoreCompileInputs.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/obj/Debug/net9.0/loop.sourcelink.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/obj/Debug/net9.0/loop.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/obj/Debug/net9.0/refint/loop.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/obj/Debug/net9.0/loop.pdb
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/obj/Debug/net9.0/loop.genruntimeconfig.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-2/loop/obj/Debug/net9.0/ref/loop.dll
