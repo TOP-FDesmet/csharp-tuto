@@ -23,7 +23,8 @@ Console.WriteLine("Veuillez saisir votre prénom");
 firstname = Console.ReadLine();
 
 Console.WriteLine("Veuillez saisir votre âge");
-age = Int32.Parse(Console.ReadLine());
+// age = int.Parse(Console.ReadLine());
+age = Convert.ToInt32(Console.ReadLine());
 
 // String operator
 Console.WriteLine("Bonjour " + firstname + ", vous avez " + age + " ans !");
