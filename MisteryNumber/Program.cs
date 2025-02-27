@@ -1,4 +1,4 @@
-﻿const int misteryNumber = 4;
+﻿const int MISTERY_NUMBER = 4;
 string firstname;
 int yourNumber;
 
@@ -8,7 +8,7 @@ firstname = Console.ReadLine();
 Console.WriteLine($"Bienvenue {firstname} ! Veuillez saisir un nombre entre 1 et 7.");
 yourNumber = int.Parse(Console.ReadLine());
 
-if (yourNumber == misteryNumber)
+if (yourNumber == MISTERY_NUMBER)
 {
   Console.WriteLine("Bravo vous avez gagné !");
 }
@@ -16,7 +16,7 @@ else
 {
   Console.WriteLine("Oups ! Vous avez perdu.");
   
-  if (yourNumber > misteryNumber)
+  if (yourNumber > MISTERY_NUMBER)
   {
     Console.WriteLine("Le nombre mystère saisi est plus petit !");
   }
