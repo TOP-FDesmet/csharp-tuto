@@ -1,0 +1,15 @@
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/bin/Debug/net9.0/MisteryNumber
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/bin/Debug/net9.0/MisteryNumber.deps.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/bin/Debug/net9.0/MisteryNumber.runtimeconfig.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/bin/Debug/net9.0/MisteryNumber.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/bin/Debug/net9.0/MisteryNumber.pdb
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/obj/Debug/net9.0/MisteryNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/obj/Debug/net9.0/MisteryNumber.AssemblyInfoInputs.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/obj/Debug/net9.0/MisteryNumber.AssemblyInfo.cs
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/obj/Debug/net9.0/MisteryNumber.csproj.CoreCompileInputs.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/obj/Debug/net9.0/MisteryNumber.sourcelink.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/obj/Debug/net9.0/MisteryNumber.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/obj/Debug/net9.0/refint/MisteryNumber.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/obj/Debug/net9.0/MisteryNumber.pdb
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/obj/Debug/net9.0/MisteryNumber.genruntimeconfig.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/MisteryNumber/obj/Debug/net9.0/ref/MisteryNumber.dll
