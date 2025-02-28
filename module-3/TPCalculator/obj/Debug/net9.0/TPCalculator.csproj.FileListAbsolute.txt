@@ -1,0 +1,15 @@
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/bin/Debug/net9.0/TPCalculator
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/bin/Debug/net9.0/TPCalculator.deps.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/bin/Debug/net9.0/TPCalculator.runtimeconfig.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/bin/Debug/net9.0/TPCalculator.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/bin/Debug/net9.0/TPCalculator.pdb
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/obj/Debug/net9.0/TPCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/obj/Debug/net9.0/TPCalculator.AssemblyInfoInputs.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/obj/Debug/net9.0/TPCalculator.AssemblyInfo.cs
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/obj/Debug/net9.0/TPCalculator.csproj.CoreCompileInputs.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/obj/Debug/net9.0/TPCalculator.sourcelink.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/obj/Debug/net9.0/TPCalculator.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/obj/Debug/net9.0/refint/TPCalculator.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/obj/Debug/net9.0/TPCalculator.pdb
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/obj/Debug/net9.0/TPCalculator.genruntimeconfig.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/module-3/TPCalculator/obj/Debug/net9.0/ref/TPCalculator.dll

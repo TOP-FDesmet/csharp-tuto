@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPCalculator", "TPCalculator.csproj", "{AABF76A7-7C9B-7DFF-6888-1954B1CB50ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AABF76A7-7C9B-7DFF-6888-1954B1CB50ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABF76A7-7C9B-7DFF-6888-1954B1CB50ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABF76A7-7C9B-7DFF-6888-1954B1CB50ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABF76A7-7C9B-7DFF-6888-1954B1CB50ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AAE04C0-5CE2-421F-A341-47CF4956DAF1}
+	EndGlobalSection
+EndGlobal
