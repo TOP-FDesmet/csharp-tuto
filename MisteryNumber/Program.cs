@@ -1,13 +1,17 @@
-﻿const int MISTERY_NUMBER = 4;
+﻿const int MisteryNumber = 4;
+const int NumMin = 1;
+const int NumMax = 10;
+
 string firstname;
+string indication = "";
+
 int yourNumber;
 List<int> numbersPlayed = [];
 
+bool win = false;
+
 Console.WriteLine("Veuillez saisir votre prénom.");
 firstname = Console.ReadLine();
-
-string indication = "";
-bool win = false;
 
 while (!win)
 {
@@ -30,12 +34,24 @@ while (!win)
         Console.WriteLine(indication);
     }
 
-    Console.WriteLine($"Bienvenue {firstname} ! Veuillez saisir un nombre entre 1 et 10.");
-    yourNumber = int.Parse(Console.ReadLine());
+    Console.WriteLine($"Bienvenue {firstname} ! Veuillez saisir un nombre entre {NumMin} et {NumMax}.");
+
+    yourNumber = 0;
+    while (yourNumber < NumMin || yourNumber > NumMax)
+    {
+        try
+        {
+            yourNumber = int.Parse(Console.ReadLine());
+        }
+        catch
+        {
+            yourNumber = 0;
+        }
+    }
 
     numbersPlayed.Add(yourNumber);
 
-    if (yourNumber == MISTERY_NUMBER)
+    if (yourNumber == MisteryNumber)
     {
         Console.WriteLine("Bravo vous avez gagné !");
         win = true;
@@ -44,7 +60,7 @@ while (!win)
     {
         Console.WriteLine("Oups ! Vous avez perdu.");
 
-        if (yourNumber > MISTERY_NUMBER)
+        if (yourNumber > MisteryNumber)
         {
             indication = "Le nombre mystère saisi est plus petit !";
         }
