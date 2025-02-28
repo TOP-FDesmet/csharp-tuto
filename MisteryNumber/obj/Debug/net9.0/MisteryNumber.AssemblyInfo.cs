@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MisteryNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05fa370db72a07205101e65df466534df194e7d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e31e964d534d2089c7dd7643a6ba3e93af7a1437")]
 [assembly: System.Reflection.AssemblyProductAttribute("MisteryNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MisteryNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
