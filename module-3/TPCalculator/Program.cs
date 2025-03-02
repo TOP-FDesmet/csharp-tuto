@@ -2,12 +2,12 @@
 
 int val1;
 int val2;
-
-string choice;
+int result;
+string operatorType;
 
 List<string> operators = ["Addition", "Soustraction", "Multiplication", "Division", "Modulo"];
 
-Calculator calcul = new Calculator();
+Calculator calcul = new();
 
 Console.WriteLine("Veuillez saisir le premier nombre");
 val1 = int.Parse(Console.ReadLine());
@@ -15,29 +15,37 @@ val1 = int.Parse(Console.ReadLine());
 Console.WriteLine("Veuillez saisir le second nombre");
 val2 = int.Parse(Console.ReadLine());
 
-choice = Console.ReadLine();
+Console.WriteLine("Veuillez saisir le type d'opération à effectuer :");
+foreach (string val in operators)
+{
+  Console.WriteLine(val);
+}
+operatorType = Console.ReadLine();
 
-if (choice == "Addition")
+if (operatorType == "+")
 {
-  Console.WriteLine(calcul.Add(val1, val2));
+  result = calcul.Add(val1, val2);
 }
-else if (choice == "Soustraction")
+else if (operatorType == "-")
 {
-  Console.WriteLine(calcul.Sub(val1, val2));
+  result = calcul.Sub(val1, val2);
 }
-else if (choice == "Multiplication")
+else if (operatorType == "*")
 {
-  Console.WriteLine(calcul.Multiplication(val1, val2));
+  result = calcul.Multiplication(val1, val2);
 }
-else if (choice == "Division")
+else if (operatorType == "/")
 {
-  Console.WriteLine(calcul.Division(val1, val2));
+  result = calcul.Division(val1, val2);
 }
-else if (choice == "Modulo")
+else if (operatorType == "%")
 {
-  Console.WriteLine(calcul.Modulo(val1, val2));
+  result = calcul.Modulo(val1, val2);
 }
 else
 {
-  Console.WriteLine("Veuillez choisir une opération valide");
+  Console.WriteLine("Opérateur non reconnu !");
+  return;
 }
+
+Console.WriteLine("Le résultat de l'opération est " + result);
