@@ -1,43 +1,42 @@
+using TPCalculator.Operations;
+
 namespace TPCalculator;
 
 public class Calculator
 {
-  public int OperandLeft { get; }
-  public int OperandRight { get; }
-  public int Result { get; set; }
+  public Operation Operation { get; }
+  public int Result => Operation.Result;
 
-  public Calculator(int opLeft, int opRight)
+  public Calculator(Operation operation)
   {
-    OperandLeft = opLeft;
-    OperandRight = opRight;
+    Operation = operation;
   }
 
-  public void Addition()
+  public void Execute()
   {
-    Result = OperandLeft + OperandRight;
-  }
-
-  public void Substraction()
-  {
-    Result = OperandLeft - OperandRight;
-  }
-
-  public void Multiplication()
-  {
-    Result = OperandLeft * OperandRight;
-  }
-
-  public void Division()
-  {
-    if (OperandRight == 0)
+    if (Operation is Addition addition)
     {
-      Result = 0;
+      addition.Execute();
     }
-    Result = OperandLeft / OperandRight;
-  }
-
-  public void Modulo()
-  {
-    Result = OperandLeft % OperandRight;
+    else if (Operation is Substraction substraction)
+    {
+      substraction.Execute();
+    }
+    else if (Operation is Multiplication multiplication)
+    {
+      multiplication.Execute();
+    }
+    else if (Operation is Division division)
+    {
+      division.Execute();
+    }
+    else if (Operation is Modulo modulo)
+    {
+      modulo.Execute();
+    }
+    else
+    {
+      Console.WriteLine("Opération non reconnue !");
+    }
   }
 }

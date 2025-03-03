@@ -11,39 +11,41 @@ var o1 = int.Parse(Console.ReadLine());
 Console.WriteLine("Veuillez saisir le second nombre");
 var o2 = int.Parse(Console.ReadLine());
 
-Calculator calcul = new(o1, o2);
-
 Console.WriteLine("Veuillez saisir le type d'opération à effectuer :");
 foreach (string val in operators)
 {
   Console.WriteLine(val);
 }
 operatorType = Console.ReadLine();
+Operation operation;
 
 if (operatorType == "+")
 {
-  calcul.Addition();
+  operation = new Addition(o1, o2);
 }
 else if (operatorType == "-")
 {
-  calcul.Substraction();
+  operation = new Substraction(o1, o2);
 }
 else if (operatorType == "*")
 {
-  calcul.Multiplication();
+  operation = new Multiplication(o1, o2);
 }
 else if (operatorType == "/")
 {
-  calcul.Division();
+  operation = new Division(o1, o2);
 }
 else if (operatorType == "%")
 {
-  calcul.Modulo();
+  operation = new Modulo(o1, o2);
 }
 else
 {
   Console.WriteLine("Opérateur non reconnu !");
   return;
 }
+
+Calculator calcul = new(operation);
+calcul.Execute();
 
 Console.WriteLine("Le résultat de l'opération est " + calcul.Result);
