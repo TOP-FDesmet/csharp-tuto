@@ -4,13 +4,13 @@ string operatorType;
 
 List<string> operators = ["Addition", "Soustraction", "Multiplication", "Division", "Modulo"];
 
-Calculator calcul = new();
-
 Console.WriteLine("Veuillez saisir le premier nombre");
-calcul.OperandLeft = int.Parse(Console.ReadLine());
+var o1 = int.Parse(Console.ReadLine());
 
 Console.WriteLine("Veuillez saisir le second nombre");
-calcul.OperandRight = int.Parse(Console.ReadLine());
+var o2 = int.Parse(Console.ReadLine());
+
+Calculator calcul = new(o1, o2);
 
 Console.WriteLine("Veuillez saisir le type d'opération à effectuer :");
 foreach (string val in operators)

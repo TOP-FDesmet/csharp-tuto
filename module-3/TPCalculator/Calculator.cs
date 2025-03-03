@@ -2,9 +2,15 @@ namespace TPCalculator;
 
 public class Calculator
 {
-  public int OperandLeft { get; set; }
-  public int OperandRight { get; set; }
+  public int OperandLeft { get; }
+  public int OperandRight { get; }
   public int Result { get; set; }
+
+  public Calculator(int opLeft, int opRight)
+  {
+    OperandLeft = opLeft;
+    OperandRight = opRight;
+  }
 
   public void Addition()
   {
