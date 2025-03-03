@@ -1,4 +1,5 @@
 ﻿using TPCalculator;
+using TPCalculator.Operations;
 
 string operatorType;
 
