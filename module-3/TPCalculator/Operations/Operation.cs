@@ -2,11 +2,11 @@ namespace TPCalculator.Operations;
 
 public abstract class Operation
 {
-  public int OperandLeft { get; }
-  public int OperandRight { get; }
-  public int Result { get; set; }
+  protected int OperandLeft { get; }
+  protected int OperandRight { get; }
+  public int Result { get; protected set; }
 
-  public Operation(int opLeft, int opRight)
+  protected Operation(int opLeft, int opRight)
   {
     OperandLeft = opLeft;
     OperandRight = opRight;

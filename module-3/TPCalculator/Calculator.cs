@@ -4,7 +4,7 @@ namespace TPCalculator;
 
 public class Calculator
 {
-  public Operation Operation { get; }
+  private Operation Operation { get; }
   public int Result => Operation.Result;
 
   public Calculator(Operation operation)
