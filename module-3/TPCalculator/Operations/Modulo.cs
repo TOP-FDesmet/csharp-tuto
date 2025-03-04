@@ -2,12 +2,9 @@ namespace TPCalculator.Operations;
 
 public class Modulo : Operation
 {
-  public Modulo(int opLeft, int opRight) : base(opLeft, opRight)
-  {
+  public Modulo(int opLeft, int opRight) : base(opLeft, opRight) { }
 
-  }
-
-  public void Execute()
+  public override void Execute()
   {
     Result = OperandLeft % OperandRight;
   }

@@ -2,12 +2,9 @@ namespace TPCalculator.Operations;
 
 public class Substraction : Operation
 {
-  public Substraction(int opLeft, int opRight) : base(opLeft, opRight)
-  {
+  public Substraction(int opLeft, int opRight) : base(opLeft, opRight) { }
 
-  }
-
-  public void Execute()
+  public override void Execute()
   {
     Result = OperandLeft - OperandRight;
   }

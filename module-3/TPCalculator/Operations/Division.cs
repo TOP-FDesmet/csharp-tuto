@@ -2,12 +2,9 @@ namespace TPCalculator.Operations;
 
 public class Division : Operation
 {
-  public Division(int opLeft, int opRight) : base(opLeft, opRight)
-  {
+  public Division(int opLeft, int opRight) : base(opLeft, opRight) { }
 
-  }
-
-  public void Execute()
+  public override void Execute()
   {
     if (OperandRight != 0)
     {

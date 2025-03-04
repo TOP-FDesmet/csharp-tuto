@@ -2,12 +2,9 @@ namespace TPCalculator.Operations;
 
 public class Addition : Operation
 {
-  public Addition(int opLeft, int opRight) : base(opLeft, opRight)
-  {
+  public Addition(int opLeft, int opRight) : base(opLeft, opRight) { }
 
-  }
-
-  public void Execute()
+  public override void Execute()
   {
     Result = OperandLeft + OperandRight;
   }

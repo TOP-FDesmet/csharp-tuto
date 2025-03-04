@@ -1,6 +1,6 @@
 namespace TPCalculator.Operations;
 
-public class Operation
+public abstract class Operation
 {
   public int OperandLeft { get; }
   public int OperandRight { get; }
@@ -11,4 +11,6 @@ public class Operation
     OperandLeft = opLeft;
     OperandRight = opRight;
   }
+
+  public abstract void Execute();
 }

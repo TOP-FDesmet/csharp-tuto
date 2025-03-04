@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TPCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52abe543b4cd40de7c5e4fc1adc83d53182afa9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fc30e69b4f330c636f012b26b82a9f5cf8cd03d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TPCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TPCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
