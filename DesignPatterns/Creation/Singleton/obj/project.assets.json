@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/DesignPatterns.csproj",
-      "projectName": "DesignPatterns",
-      "projectPath": "/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/DesignPatterns.csproj",
+      "projectUniqueName": "/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/Singleton.csproj",
+      "projectName": "Singleton",
+      "projectPath": "/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/Singleton.csproj",
       "packagesPath": "/Users/top-fdesmet/.nuget/packages/",
-      "outputPath": "/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/obj/",
+      "outputPath": "/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/top-fdesmet/.nuget/NuGet/NuGet.Config"

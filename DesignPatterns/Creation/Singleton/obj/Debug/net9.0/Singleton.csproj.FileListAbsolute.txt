@@ -1,0 +1,15 @@
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/bin/Debug/net9.0/Singleton
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/bin/Debug/net9.0/Singleton.deps.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/bin/Debug/net9.0/Singleton.runtimeconfig.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/bin/Debug/net9.0/Singleton.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/bin/Debug/net9.0/Singleton.pdb
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/obj/Debug/net9.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/obj/Debug/net9.0/Singleton.AssemblyInfoInputs.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/obj/Debug/net9.0/Singleton.AssemblyInfo.cs
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/obj/Debug/net9.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/obj/Debug/net9.0/Singleton.sourcelink.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/obj/Debug/net9.0/Singleton.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/obj/Debug/net9.0/refint/Singleton.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/obj/Debug/net9.0/Singleton.pdb
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/obj/Debug/net9.0/Singleton.genruntimeconfig.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/DesignPatterns/Creation/Singleton/obj/Debug/net9.0/ref/Singleton.dll
