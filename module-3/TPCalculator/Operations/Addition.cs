@@ -8,4 +8,9 @@ public class Addition : Operation
   {
     Result = OperandLeft + OperandRight;
   }
+
+  public override string ToString()
+  {
+    return $"{OperandLeft} + {OperandRight} = {Result}";
+  }
 }

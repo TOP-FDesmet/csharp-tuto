@@ -1,6 +1,8 @@
+using TPCalculator.Interfaces;
+
 namespace TPCalculator.Operations;
 
-public abstract class Operation
+public abstract class Operation : IOperation
 {
   protected int OperandLeft { get; }
   protected int OperandRight { get; }

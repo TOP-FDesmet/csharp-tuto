@@ -8,4 +8,9 @@ public class Puissance : Operation
   {
     Result = (int)Math.Pow(OperandLeft, OperandRight);
   }
+
+  public override string ToString()
+  {
+    return $"{OperandLeft} ^ {OperandRight} = {Result}";
+  }
 }

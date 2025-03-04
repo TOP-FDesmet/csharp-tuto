@@ -1,14 +1,15 @@
-using TPCalculator.Operations;
+using TPCalculator.Interfaces;
 
 namespace TPCalculator;
 
 public class Calculator
 {
-  private Operation Operation { get; }
+  private IOperation Operation { get; }
   public int Result => Operation.Result;
 
-  public Calculator(Operation operation)
+  public Calculator(IOperation operation)
   {
+    History.Operations.Add(operation);
     Operation = operation;
   }
 

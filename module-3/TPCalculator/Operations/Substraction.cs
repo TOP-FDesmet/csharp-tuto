@@ -8,4 +8,9 @@ public class Substraction : Operation
   {
     Result = OperandLeft - OperandRight;
   }
+
+  public override string ToString()
+  {
+    return $"{OperandLeft} - {OperandRight} = {Result}";
+  }
 }
