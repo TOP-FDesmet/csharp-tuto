@@ -1,43 +1,20 @@
+using TPCalculator.Interfaces;
+
 namespace TPCalculator;
 
 public class Calculator
 {
-  public int OperandLeft { get; }
-  public int OperandRight { get; }
-  public int Result { get; set; }
+  private IOperation Operation { get; }
+  public int Result => Operation.Result;
 
-  public Calculator(int opLeft, int opRight)
+  public Calculator(IOperation operation)
   {
-    OperandLeft = opLeft;
-    OperandRight = opRight;
+    History.Operations.Add(operation);
+    Operation = operation;
   }
 
-  public void Addition()
+  public void Execute()
   {
-    Result = OperandLeft + OperandRight;
-  }
-
-  public void Substraction()
-  {
-    Result = OperandLeft - OperandRight;
-  }
-
-  public void Multiplication()
-  {
-    Result = OperandLeft * OperandRight;
-  }
-
-  public void Division()
-  {
-    if (OperandRight == 0)
-    {
-      Result = 0;
-    }
-    Result = OperandLeft / OperandRight;
-  }
-
-  public void Modulo()
-  {
-    Result = OperandLeft % OperandRight;
+    Operation.Execute();
   }
 }
