@@ -1,0 +1,15 @@
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/bin/Debug/net9.0/PassManager
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/bin/Debug/net9.0/PassManager.deps.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/bin/Debug/net9.0/PassManager.runtimeconfig.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/bin/Debug/net9.0/PassManager.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/bin/Debug/net9.0/PassManager.pdb
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/obj/Debug/net9.0/PassManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/obj/Debug/net9.0/PassManager.AssemblyInfoInputs.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/obj/Debug/net9.0/PassManager.AssemblyInfo.cs
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/obj/Debug/net9.0/PassManager.csproj.CoreCompileInputs.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/obj/Debug/net9.0/PassManager.sourcelink.json
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/obj/Debug/net9.0/PassManager.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/obj/Debug/net9.0/refint/PassManager.dll
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/obj/Debug/net9.0/PassManager.pdb
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/obj/Debug/net9.0/PassManager.genruntimeconfig.cache
+/Users/top-fdesmet/Documents/02_formations/csharp-tuto/PassManager/obj/Debug/net9.0/ref/PassManager.dll
